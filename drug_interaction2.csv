@@ -1,0 +1,21 @@
+Drug1,Drug2,Interaction,Severity,Note
+Paracetamol,Ibuprofen,No major interaction,Low,Safe in most cases.
+Vitamin C,Paracetamol,No major interaction,Low,Generally safe.
+Ranitidine,Paracetamol,No major interaction,Low,No known risk.
+Metoprolol,Vitamin D,No major interaction,Low,Safe when used as prescribed.
+Folic Acid,Iron,No major interaction,Low,Commonly used together.
+Digoxin,Riboflavin,Riboflavin may reduce absorption of Digoxin,Moderate,Monitor drug levels.
+Lisinopril,Spironolactone,May cause high potassium levels,Moderate,Monitor potassium levels closely.
+Omeprazole,Clopidogrel,May reduce effectiveness of Clopidogrel,Moderate,Consider alternative therapy.
+Ibuprofen,Prednisone,Increases risk of stomach ulcers,Moderate,Take with food if needed.
+Diazepam,Alcohol,CNS depression (drowsiness),Moderate,Avoid alcohol while using Diazepam.
+Digoxin,Ibuprofen,May increase risk of kidney problems,High,Avoid or use with monitoring.
+Aspirin,Warfarin,Increases bleeding risk,High,Strong caution or avoid.
+Metformin,Alcohol,Can cause lactic acidosis,High,Avoid combining regularly.
+Amoxicillin,Methotrexate,Can increase methotrexate toxicity,High,Use with extreme caution.
+Clarithromycin,Warfarin,Increases bleeding risk,High,Regular INR monitoring required.
+Simvastatin,Grapefruit juice,Increases blood levels of Simvastatin,High,Avoid grapefruit with Simvastatin.
+Warfarin,Ciprofloxacin,Can increase bleeding risk,High,Use with monitoring.
+Sertraline,Amitriptyline,Risk of serotonin syndrome,High,Monitor for serotonin syndrome.
+Insulin,Beta-blockers,May cause low blood sugar,High,Monitor blood glucose closely.
+Lithium,NSAIDs,Increases lithium levels,High,Monitor for lithium toxicity.
